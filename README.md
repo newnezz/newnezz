@@ -1,4 +1,6 @@
 # <icon> Welcome, I'm Michael Nunez! <name> <icon>
+  
+![snake gif](https://github.com/IvL-Nunez/IvL-Nunez/blob/output/github-contribution-grid-snake.gif)
 
 ### <i>Freelancer @ home</i> <icon> 
 
