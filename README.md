@@ -1,19 +1,21 @@
-### Hi there 👋
+# <icon> Welcome, I'm Michael Nunez! <name> <icon>
 
-<!--
-**Ivl-Nunez/Ivl-Nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <i>Freelancer @ home</i> <icon> 
 
-Here are some ideas to get you started:
+=> Pixel art of me to the right section
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact info and view contacer, waka readme?, buy me coffee
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/newnez/count.svg)
+# Clickable image => Calendly
+
+# npx tool
+
+# aboutme in code
+
+# snake eating contributaions
+
+# stats and icons
+
+# ASCII Art? Jokes?
+
+# currently listneing to
