@@ -1,4 +1,10 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm+Michael!;A+full-stack+web+dev+:\))](https://git.io/typing-svg)</p>
+
+👇  Console or terminal to connect with me.
+```bash
+npx nunez
+```
+👆
       
   ```js
   const Michael = {
