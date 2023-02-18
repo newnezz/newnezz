@@ -31,7 +31,7 @@ npx nunez
   ## Joke of the Day
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144iv3jsdbf2s4xsszxlpggc5g4&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144iv3jsdbf2s4xsszxlpggc5g4&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3144iv3jsdbf2s4xsszxlpggc5g4&redirect=true)
   
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
