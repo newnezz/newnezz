@@ -60,10 +60,4 @@ npx nunez
 
 # Clickable image => Calendly
 
-# npx tool
-
-# stats and icons
-
-# ASCII Art? Jokes?
-
-# currently listneing to -->
+# stats and icons -->
