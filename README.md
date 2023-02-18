@@ -30,6 +30,9 @@ npx nunez
   
   ## Joke of the Day
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   
 <!-- => Pixel art of me to the right section
