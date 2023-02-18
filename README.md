@@ -1,11 +1,7 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm+Michael!;A+full-stack+web+dev+:\))](https://git.io/typing-svg)</p>
-
-👇  Console or terminal to connect with me.
-```bash
-npx nunez
-```
-👆
       
+      
+  ## About Me
   ```js
   const Michael = {
     code: ["Javascript", "C#"],
@@ -25,6 +21,11 @@ npx nunez
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 };
   ```
+<img src="https://icons8.com/icon/QsO1qiXCL8H2/code" />## Connect with me
+```bash
+npx nunez
+```
+
   ## Contributions
   ![snake gif](https://github.com/IvL-Nunez/IvL-Nunez/blob/output/github-contribution-grid-snake.gif)
   
