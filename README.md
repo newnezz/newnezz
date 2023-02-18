@@ -29,8 +29,8 @@ npx nunez
   ![snake gif](https://github.com/IvL-Nunez/IvL-Nunez/blob/output/github-contribution-grid-snake.gif)
   
   ## Stats
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   ## Fun
  | | |
