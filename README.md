@@ -8,20 +8,25 @@
   ```js
   const Michael = {
     code: ["Javascript", "C#"],
-    askMeAbout: ["web dev", "husband", "dad", "christian"],
+    askMeAbout: ["christian", "husband", "dad", "web dev"],
     currentRole: "Freelancer",
     technologies: {
+        frontEnd: "React",
         backEnd: {
             js: ["Node", "Express"],
         },
-        mobileApp: {
-            hybrid: ["React Native, Xamarin"]
+        mobileApps: {
+            hybrid: ["React Native, Xamarin"],
+            native: []
+        },
+        desktopApps: {
+            windows: "Forms",
+            multi: "Electron"
         },
         devOps: ["AWS", "Heroku"],
         databases: ["mongo", "Postgres", "sqlite"],
-        misc: ["Testing"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Single page applications"],
 };
   ```
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVmYWUxMWRlYjJkNTgwMWQ4ZWI0OTA5NTViMDkyMGZjNmQxMTg0MSZjdD1z/BHCFcibksBxAV0FDoL/giphy.gif" height=50, width=50/>Connect with me
