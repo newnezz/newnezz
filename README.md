@@ -44,7 +44,7 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
 
@@ -89,17 +89,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
-Liquid                   1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-CSS                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-JSON                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Liquid                   1 hr 48 mins        ███████████░░░░░░░░░░░░░░   44.05 % 
+JSON                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+CSS                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+JavaScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -115,7 +115,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2023 00:24:39 UTC
+ Last Updated on 03/03/2023 02:00:21 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
