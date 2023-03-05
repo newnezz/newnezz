@@ -44,9 +44,9 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-279-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.0%20thousand%20lines%20of%20code-blue)
 
@@ -89,17 +89,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Liquid                   4 hrs 16 mins       ███████████████████░░░░░░   77.61 % 
-JSON                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Liquid                   6 hrs 45 mins       ████████████████████░░░░░   79.41 % 
+JSON                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -115,7 +115,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2023 00:20:49 UTC
+ Last Updated on 05/03/2023 00:25:16 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
