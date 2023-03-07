@@ -44,9 +44,9 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.0%20thousand%20lines%20of%20code-blue)
 
@@ -89,17 +89,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Liquid                   9 hrs 29 mins       ████████████████████░░░░░   81.59 % 
-JSON                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Liquid                   9 hrs 30 mins       ████████████████████░░░░░   81.62 % 
+JSON                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -115,7 +115,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2023 00:22:46 UTC
+ Last Updated on 07/03/2023 00:23:34 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
