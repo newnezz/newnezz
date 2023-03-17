@@ -44,7 +44,7 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -54,11 +54,11 @@ npx nunez
 
 > 📦 327.1 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2023
+> 🏆 98 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -89,17 +89,17 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Liquid                   51 mins             █████████████░░░░░░░░░░░░   51.17 % 
-JavaScript               23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-HTML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript               23 mins             █████████░░░░░░░░░░░░░░░░   36.54 % 
+HTML                     20 mins             ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Liquid                   16 mins             ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2023 00:22:54 UTC
+ Last Updated on 17/03/2023 00:21:44 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
