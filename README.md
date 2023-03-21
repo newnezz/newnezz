@@ -44,9 +44,9 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.8%20thousand%20lines%20of%20code-blue)
 
@@ -89,17 +89,17 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.72 % 
-CSV                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Liquid                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JavaScript               2 hrs 19 mins       █████████████░░░░░░░░░░░░   50.01 % 
+CSV                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Liquid                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2023 00:22:23 UTC
+ Last Updated on 21/03/2023 00:20:18 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
