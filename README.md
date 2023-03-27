@@ -44,7 +44,7 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,17 +89,15 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Liquid                   1 hr 50 mins        ███████████████░░░░░░░░░░   61.98 % 
-JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-CSV                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Liquid                   1 hr 26 mins        ████████████████████████░   96.96 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +113,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2023 00:22:18 UTC
+ Last Updated on 27/03/2023 00:20:47 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
