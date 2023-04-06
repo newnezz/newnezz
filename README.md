@@ -89,13 +89,17 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               7 mins              ███████████████░░░░░░░░░░   58.93 % 
+Markdown                 3 mins              ████████░░░░░░░░░░░░░░░░░   30.81 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2023 00:17:56 UTC
+ Last Updated on 06/04/2023 00:19:17 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
