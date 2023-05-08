@@ -54,7 +54,7 @@ npx nunez
 
 > 📦 327.3 kB Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2023
+> 🏆 123 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -89,8 +89,8 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               13 mins             ███████████████████████░░   93.86 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JavaScript               13 mins             ███████████████████████░░   93.51 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.00 % 
@@ -112,7 +112,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2023 00:21:02 UTC
+ Last Updated on 08/05/2023 00:19:14 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
