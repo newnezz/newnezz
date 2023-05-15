@@ -89,8 +89,7 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               16 mins             █████████████████████████   99.68 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript               16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  16 mins             █████████████████████████   100.00 % 
@@ -112,7 +111,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2023 00:21:46 UTC
+ Last Updated on 15/05/2023 00:20:49 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
