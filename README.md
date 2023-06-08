@@ -9,11 +9,11 @@
   const Michael = {
     code: ["Javascript", "C#"],
     askMeAbout: ["christian", "husband", "dad", "web dev"],
-    currentRole: "Freelancer",
+    currentRole: "Software Engineer Instructor",
     technologies: {
         frontEnd: "React",
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "Python"],
         },
         mobileApps: {
             hybrid: ["React Native, Xamarin"],
