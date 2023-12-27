@@ -36,9 +36,11 @@
 npx nunez
 ```
 
+<!--
   <h2><img src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif" height=35 width=35 />   Contributions   </h2>
   
   ![snake gif](https://github.com/IvL-Nunez/IvL-Nunez/blob/output/github-contribution-grid-snake.gif)
+-->
   
   
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
