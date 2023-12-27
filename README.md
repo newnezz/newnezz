@@ -7,13 +7,13 @@
   
   ```js
   const Michael = {
-    code: ["Javascript", "C#"],
-    askMeAbout: ["christian", "husband", "dad", "web dev"],
-    currentRole: "Software Engineer Instructor",
+    mainLang: ["Javascript"],
+    askMeAbout: ["Christian", "husband", "dad", "developer"],
+    currentRole: "Freelancing",
     technologies: {
-        frontEnd: "React",
+        frontEnd: ["React", "Tailwind", "TypeScript"],
         backEnd: {
-            js: ["Node", "Express", "Python"],
+            js: ["Node", "Express", "Python", "FastAPI"],
         },
         mobileApps: {
             hybrid: ["React Native, Xamarin"],
@@ -24,7 +24,7 @@
             multi: "Electron"
         },
         devOps: ["AWS", "Heroku"],
-        databases: ["mongo", "Postgres", "sqlite"],
+        databases: ["mongoDB", "PostgreSQL", "sqlite"],
     },
     architecture: ["Single page applications"],
 };
