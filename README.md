@@ -46,7 +46,7 @@ npx nunez
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNjYzUxNjA4YWYwODYwYzNlMWJlZmE0NWM2OTZmNzg5MjU3MjU0ZCZjdD1z/NS0bXSSo8nIFbDDSb5/giphy.gif" heigth=50 width=50 />   Stats </h2>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
 
@@ -56,7 +56,7 @@ npx nunez
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,17 +91,17 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               8 hrs 54 mins       ███████████████████░░░░░░   76.41 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JavaScript               9 hrs 24 mins       ████████████████████░░░░░   80.50 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:23:31 UTC
+ Last Updated on 01/01/2024 00:24:21 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
