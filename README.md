@@ -91,13 +91,15 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               8 mins              ████████████████████████░   95.56 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +115,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2024 00:23:08 UTC
+ Last Updated on 16/01/2024 00:21:48 UTC
 <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://media.giphy.com/media/Iysz47yuY6Rnwb4fPt/giphy.gif" /> </p>
